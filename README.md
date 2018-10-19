@@ -1,2 +1,4 @@
 # myrepository
-This is a test repository that I might delete later
+This is a test program that I might delete later.
+
+Testing!
